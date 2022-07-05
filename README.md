@@ -1,6 +1,6 @@
 # Landscape Classifier 
 ### Python - Convolutional Neural Network
-#### Create an automatic landscape classifier
+#### Create an automatic landscape classifier (images)
 
 1. Upload the images. See how the data is stored. You will have to go through the folders, load the images into memory and label them with the names of the folders. Make a reshape of each image (start the exercise with 32x32, to go faster in the executions).
 2. Investigate the images, check with some samples that you have loaded the data correctly.
